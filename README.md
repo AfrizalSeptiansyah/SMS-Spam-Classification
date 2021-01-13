@@ -1,1 +1,1 @@
-# SMS-Spam-Classification
+# SMS-Spam-Classification-with-Logistic-Regression
